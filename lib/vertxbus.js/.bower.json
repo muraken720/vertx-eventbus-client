@@ -1,0 +1,15 @@
+{
+  "name": "vertxbus.js",
+  "_cacheHeaders": {
+    "ETag": "\"92d0c04f8a1245d526fc6b1c95859c42\"",
+    "Content-Length": "6557",
+    "Content-Type": "text/plain; charset=utf-8",
+    "Content-Disposition": "inline"
+  },
+  "_release": "e-tag:92d0c04f8",
+  "main": "index.js",
+  "_source": "https://raw.github.com/eclipse/vert.x/master/src/dist/client/vertxbus.js",
+  "_target": "*",
+  "_originalSource": "https://raw.github.com/eclipse/vert.x/master/src/dist/client/vertxbus.js",
+  "_direct": true
+}

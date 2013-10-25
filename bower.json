@@ -1,0 +1,8 @@
+{
+  "name": "vertx-eventbus-client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "vertxbus.js": "https://raw.github.com/eclipse/vert.x/master/src/dist/client/vertxbus.js"
+  }
+}

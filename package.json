@@ -19,5 +19,9 @@
   "license": "ASL 2.0",
   "bugs": {
     "url": "https://github.com/muraken720/vertx-eventbus-client/issues"
+  },
+  "dependencies": {
+    "sockjs-client-node": "0.0.0",
+    "jsdom": "~0.8.8"
   }
 }
