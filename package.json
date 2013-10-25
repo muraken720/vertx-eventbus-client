@@ -1,0 +1,23 @@
+{
+  "name": "vertx-eventbus-client",
+  "version": "0.0.1",
+  "description": "vert.x eventbus client for node.js",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muraken720/vertx-eventbus-client"
+  },
+  "keywords": [
+    "vert.x",
+    "eventbus",
+    "bridge",
+    "client",
+    "node",
+    "sockjs"
+  ],
+  "author": "Kenichiro Murata",
+  "license": "ASL 2.0",
+  "bugs": {
+    "url": "https://github.com/muraken720/vertx-eventbus-client/issues"
+  }
+}
