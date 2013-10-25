@@ -25,10 +25,12 @@ eb.onopen = function() {
 
 ### TEST
 
+ServerSide(vert.x):
 ```
 vertx run test/VertxEventBusServer.java
 ```
 
+ClientSide(node.js):
 ```
 node test/node-client.js
 ```
