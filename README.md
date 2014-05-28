@@ -1,6 +1,6 @@
 # vertx-eventbus-client
 
-This is a vert.x 2.1M5 eventbus client library for node.js.
+This is a vert.x 2.1 eventbus client library for node.js.
 
 ### Installation
 

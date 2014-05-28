@@ -1,11 +1,14 @@
 {
   "name": "vertx-eventbus-client",
-  "version": "0.0.3",
   "description": "vert.x eventbus client for node.js",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/muraken720/vertx-eventbus-client"
+  "version": "0.0.4",
+  "author": "Kenichiro Murata",
+  "bugs": {
+    "url": "https://github.com/muraken720/vertx-eventbus-client/issues"
+  },
+  "dependencies": {
+    "jsdom": "0.10.x",
+    "sockjs-client-node": "0.1.1"
   },
   "keywords": [
     "vert.x",
@@ -15,13 +18,10 @@
     "node",
     "sockjs"
   ],
-  "author": "Kenichiro Murata",
   "license": "ASL 2.0",
-  "bugs": {
-    "url": "https://github.com/muraken720/vertx-eventbus-client/issues"
-  },
-  "dependencies": {
-    "sockjs-client-node": "0.0.0",
-    "jsdom": "~0.10.1"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muraken720/vertx-eventbus-client"
   }
 }
