@@ -1,6 +1,6 @@
 'use strict';
 
-var scope = require('jsdom').jsdom().createWindow()
+var scope = require('jsdom').jsdom().defaultView
   , library = __dirname + '/lib/vertxbus.js/index.js'
   , read = require('fs').readFileSync;
 
