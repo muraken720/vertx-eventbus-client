@@ -7,8 +7,8 @@
     "url": "https://github.com/muraken720/vertx-eventbus-client/issues"
   },
   "dependencies": {
-    "jsdom": "0.10.x",
-    "sockjs-client-node": "0.1.1"
+    "jsdom": "3.1.2",
+    "sockjs-client-node": "^0.2.1"
   },
   "keywords": [
     "vert.x",
